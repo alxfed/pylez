@@ -21,7 +21,7 @@ setup(
     packages=['pylez', 'tests'],
     long_description=read('README'),
     classifiers=[
-        "Development Status :: 1 - Alpha",
+        "Development Status :: 1 - Planning",
         "Topic :: Utilities",
         "License :: OSI Approved :: MIT License",
     ],
